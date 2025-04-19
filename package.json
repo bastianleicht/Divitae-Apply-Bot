@@ -1,0 +1,25 @@
+{
+  "name": "divitae-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bastian Leicht",
+  "license": "https://github.com/Bastian Leicht/License",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "better-sqlite3": "^7.0.1",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "dotenv-flow": "^3.1.0",
+    "enmap": "^5.2.4",
+    "ms": "^2.1.2",
+    "mysql2": "^2.1.0",
+    "pm2": "^4.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}

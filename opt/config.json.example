@@ -1,0 +1,39 @@
+{
+    "owner": ["350618993020764161"],
+	"token": "",
+    "prefix": "d!",
+    "version": "1.8",
+    "welcome": {
+        "channel": "751847967065112668"
+    },
+    "serverstats": {
+        "serverID": "692452622933950464",
+        "total": "717382593011777597",
+        "member": "",
+        "bots": ""
+    },
+    "giveaway": {
+        "everyoneMention": false,
+        "hostedBy": true
+    },
+    "application": {
+        "applychannel": "739362427434565733",
+        "bewerbungschannel": "696353117910073486",
+        "bewerberrole": "736614546118279188",
+        "questions": [
+            "» Name (reallife)? ",
+            "» Name (Fornite & Valorant)? ",
+            "» Alter? ",
+            "» Earnings? ",
+            "» Wins (Fornite)? ",
+            "» Wins (Valorant)? ",
+            "» K/D? (Fortnite)? ",
+            "» K/D? (Valorant)? ",
+            "» Stärken & Schwächen(Fortnite)? ",
+            "» Stärken & Schwächen(Valorant)? ",
+            "» Plattform? ",
+            "» Controller oder M&K? ",
+            "» Würdest du deinen Namen Ingame und auf Discord ändern? (DVT DeinName)"
+        ]
+    }
+}

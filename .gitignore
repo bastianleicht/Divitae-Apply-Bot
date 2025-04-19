@@ -1,0 +1,7 @@
+node_modules
+.idea
+opt/config.json
+opt/giveaways.json
+data/enmap.sqlite
+TODO
+.env
